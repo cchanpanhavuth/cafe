@@ -1,0 +1,24 @@
+
+.popover {
+    width: 100%;
+    max-width: 800px;
+}
+#social-fb {
+color: #3B5998;
+}
+#social-tw {
+color: #4099FF;
+}
+#social-gp {
+color: #d34836;
+}
+#social-em {
+color: #f39c12;
+}
+
+#product-preview:hover
+{
+    opacity: 70%;
+    transition: opacity 0.3s, visibility 0.3s;
+}
+
